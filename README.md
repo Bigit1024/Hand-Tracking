@@ -1,4 +1,4 @@
-#Hand-Tracking
+# Hand-Tracking
 Welcome to the Hand Tracking repository! This project leverages advanced computer vision and machine learning techniques to detect and track hand movements in real time. It is implemented using two powerful Python packages: MediaPipe and OpenCV (cv2).
 
 #Features:
